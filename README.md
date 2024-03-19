@@ -29,8 +29,8 @@ The TODO app is powered by the following technologies:
 
 To set up the React TODO app locally, follow these steps:
 
-1. Clone this repository: git clone https://github.com/your-username/react_todo-app-with-api.git
-2. Navigate to the project directory: cd react_todo-app-with-api
+1. Clone this repository: git clone https://github.com/your-username/Task_Tracker_App.git
+2. Navigate to the project directory: cd Task_Tracker_App
 3. Install dependencies: npm install
 4. Start the app: npm start
 
@@ -40,7 +40,7 @@ The app allows you to add, edit, and delete tasks, providing a seamless user exp
 
 ## Demo
 
-Check out the live demo of the React TODO app [here](https://panindmytro.github.io/react_todo-app-with-api/).
+Check out the live demo of the React TODO app [here](https://panindmytro.github.io/Task_Tracker_App/).
 
 ## Scripts
 
