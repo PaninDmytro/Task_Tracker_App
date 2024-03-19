@@ -1,4 +1,4 @@
-Welcome to the Task Tracker App! 🚀
+Welcome to the Task Tracker App repository! 🚀
 
 ## Table of Contents
 
