@@ -16,7 +16,7 @@ This GitHub repository showcases a resilient TODO application developed using Re
 
 ## Technologies
 
-The TODO app is powered by the following technologies:
+The Task Tracker App is powered by the following technologies:
 
 - React: A JavaScript library for building user interfaces.
 - TypeScript: A superset of JavaScript that adds static types to the language.
@@ -27,7 +27,7 @@ The TODO app is powered by the following technologies:
 
 ## Installation
 
-To set up the React TODO app locally, follow these steps:
+To set up the Task Tracker App locally, follow these steps:
 
 1. Clone this repository: git clone https://github.com/your-username/Task_Tracker_App.git
 2. Navigate to the project directory: cd Task_Tracker_App
@@ -40,7 +40,7 @@ The app allows you to add, edit, and delete tasks, providing a seamless user exp
 
 ## Demo
 
-Check out the live demo of the React TODO app [here](https://panindmytro.github.io/Task_Tracker_App/).
+Check out the live demo of the Task Tracker App [here](https://panindmytro.github.io/Task_Tracker_App/).
 
 ## Scripts
 
@@ -56,7 +56,7 @@ Check out the live demo of the React TODO app [here](https://panindmytro.github.
 
 ## Contributing
 
-Contributions are welcome! To contribute to the React TODO app, follow these steps:
+Contributions are welcome! To contribute to the Task Tracker App, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: git checkout -b feature/your-feature.
@@ -66,5 +66,5 @@ Contributions are welcome! To contribute to the React TODO app, follow these ste
 
 ***
 
-Thank you for checking out the React TODO app with API integration! If you have any questions or feedback, feel free to reach out. Wishing you an organized and productive experience! 📅
+Thank you for checking out the Task Tracker App integration! If you have any questions or feedback, feel free to reach out. Wishing you an organized and productive experience! 📅
 
