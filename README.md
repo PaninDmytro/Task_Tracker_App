@@ -1,4 +1,4 @@
-Welcome to the React TODO app with API repository! 🚀
+Welcome to the Task Tracker App! 🚀
 
 ## Table of Contents
 
