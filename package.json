@@ -1,5 +1,5 @@
 {
-  "homepage": ".",
+  "homepage": "https://panindmytro.github.io/Task_Tracker_App",
   "name": "react-typescript-starter-pack",
   "version": "0.1.0",
   "dependencies": {
@@ -49,7 +49,7 @@
     "@types/react-dom": "^18.2.19",
     "eslint": "^7.32.0",
     "gh-pages": "^6.1.1",
-    "sass": "^1.72.0",
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "sass": "^1.72.0"
   }
 }
